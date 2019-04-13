@@ -1,4 +1,4 @@
 n=0
-100.timesso |num|
+100.times |num|
 puts num *1
 end
