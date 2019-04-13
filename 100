@@ -1,4 +1,4 @@
 n=0
 100.timesso |num|
-puts num *100 
+puts num *1
 end
